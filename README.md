@@ -1,6 +1,6 @@
 # Correlation-Coeffiecient-r-
 
-This is my personal approach that will calculate the correlation coefficient of x,y pairs as part of my self-study in Statistics for Data Science. 
+This is my personal approach that will calculate the correlation coefficient of x,y pairs as part of my study in Statistics for Data Science. 
 
 How to interpret: 
 r calculation produces a number.
